@@ -10,4 +10,9 @@
     <h1>productos</h1>
 </body>
 </html>
-    
+h1{
+  align-items: center;
+  display: flex;
+  heighr: 100vh;
+  justify-conent: center;
+  }
